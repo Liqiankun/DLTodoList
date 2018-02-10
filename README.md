@@ -1,2 +1,1 @@
-# DLTodoList
-todo list web use jquery
+![GIF](https://github.com/Liqiankun/DLTodoList/raw/master/todo.gif)
